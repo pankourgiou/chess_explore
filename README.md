@@ -1,0 +1,1 @@
+So in order to run the game you will have to set the two .png files from issues folder on the same folder as the .py file then run normally from cmd we have shown this before...other than that it's a "simple" chess exploration game. enjoy!
